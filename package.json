@@ -1,0 +1,23 @@
+{
+  "name": "getting-started-with-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server ./index.js"
+  },
+  "author": "Rahul Kumar <rforrahul83@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "jquery": "^3.1.0",
+    "node-libs-browser": "^1.0.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
